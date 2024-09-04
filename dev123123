@@ -3864,7 +3864,7 @@ Set:Toggle("Bypass TP", true, function(value)
     BypassTP = value
 end)
 
-Set:Toggle("Fast Attack", true, function(value)
+Set:Toggle("test Fast AttacK", true, function(value)
     _G.FastAttack = value
 end)
 --Fast Attack Delta
